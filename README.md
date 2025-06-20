@@ -71,7 +71,15 @@ echo 'INSERT-INSTALL-COMMAND-HERE'
 
 
 
+# Demo
 
+![](./hotel.PNG)
+
+# LOGIN DETAILS:
+
+Username: user
+
+Password: pass
 
 
 <details closed>
@@ -96,12 +104,4 @@ echo 'INSERT-INSTALL-COMMAND-HERE'
    git push origin new-feature-x
    ```
 
-# Demo
 
-![](./hotel.PNG)
-
-# LOGIN DETAILS:
-
-Username: user
-
-Password: pass
